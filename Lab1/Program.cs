@@ -59,7 +59,7 @@
             public GameAccount Winns;
             public GameAccount Loses;
             public int Rating;
-            //static uint GlobID;
+            static uint GlobID;
             public uint GameID;
 
             public Game(GameAccount firstPlayer, GameAccount secondPlayer, int Rating)
