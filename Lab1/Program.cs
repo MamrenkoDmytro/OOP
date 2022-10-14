@@ -2,8 +2,6 @@
 {
     class Program
     {
-
-
         class GameAccount
         {
             public string UserName;
